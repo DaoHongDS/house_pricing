@@ -5,6 +5,6 @@ Demo some optimization algorithms:
 - Gradient Descent with fix step size
 - Backtracking Gradient Descent
 - Pure Newton
-- Backtracking of newton
+- Backtracking of Newton
 
 Data from Kaggle: https://www.kaggle.com/swathiachath/kc-housesales-data
